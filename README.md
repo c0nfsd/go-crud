@@ -1,4 +1,4 @@
 # go-crud
-postgres (using elephantSQL)
+### postgres (using elephantSQL)
 GIN
 GORM
